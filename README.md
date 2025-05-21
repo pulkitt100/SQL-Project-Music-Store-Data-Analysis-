@@ -1,4 +1,4 @@
-# SQL-Project-Music-Store-Analysis-
+# SQL-Project-Music-Store-Analysis
 ## Project Objective
 This end-to-end SQL project focuses on analyzing data from a music store to derive actionable business insights. By writing optimized SQL queries, I explored various aspects of the business such as sales performance, customer behavior, and popular genres. The project aims to solve key business problems and support data-driven decision-making for the store.
 
