@@ -4,3 +4,5 @@ SQL project to analyze online music store data  This project is for beginners an
 ## Database and Tools
 - Postgre SQL
 - PgAdmin4
+## Schema Music store database
+![Screenshot 2025-05-21 140012](https://github.com/user-attachments/assets/c7dfea5d-deb1-446a-a9cc-28840f0d76a1)
